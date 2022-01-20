@@ -75,7 +75,6 @@ public class User{
                     this.saldo -= nominal;
                     System.out.println("Transfer Berhasil! Saldo Anda "+saldo);
                     itungTF = itungTF + 1;
-                    System.out.println(itungTF);
                     user.saldo = user.saldo + nominal;
                 }
                 cek = false;
