@@ -27,7 +27,6 @@ public class Main {
         System.out.println("\nTarik");
         user1.Tarik(2);
         user1.Tarik(200);
-        System.out.println(user1.saldo);
 
         user1.Transfer(list);
         user1.Transfer(list);
